@@ -1,0 +1,29 @@
+_repo: With-Grenfell-on-the-Labrador_67551
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Waldo, Fullerton Leonard
+    birthdate: 1877
+    deathdate: 1933
+    gutenberg_agent_id: '35639'
+    url: http://www.gutenberg.org/2009/agents/35639
+description: ''
+gutenberg_issued: '2022-03-03'
+identifiers:
+  gutenberg: '67551'
+language: en
+pgterms:marc904: https://archive.org/details/withgrenfellonla00wald
+pgterms:marc905: 20190422091849waldo
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Mardi Desjardins & the online Distributed Proofreaders Canada team
+  at https://www.pgdpcanada.net from page images generously made available by the
+  Internet Archive
+publication_note: United States :Fleming H. Revell Company,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: With Grenfell on the Labrador
+url: http://www.gutenberg.org/ebooks/67551
