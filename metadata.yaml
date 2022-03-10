@@ -1,5 +1,8 @@
 _repo: With-Grenfell-on-the-Labrador_67551
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67551-h/images/cover.jpg
 creator:
   author:
     agent_name: Waldo, Fullerton Leonard
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '35639'
     url: http://www.gutenberg.org/2009/agents/35639
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67551#With-Grenfell-on-the-Labrador
 gutenberg_issued: '2022-03-03'
 identifiers:
   gutenberg: '67551'
